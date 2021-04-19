@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="labs/practice10A/ProductManagement/src"/>
+	<classpathentry kind="src" path="labs/practice10B/ProductManagement/src"/>
+	<classpathentry kind="src" path="labs/practice11/ProductManagement/src"/>
+	<classpathentry kind="src" path="labs/practice12/ProductManagement/src"/>
+	<classpathentry kind="src" path="labs/practice13/ProductManagement/src"/>
+	<classpathentry kind="src" path="labs/practice14/ProductManagement/src"/>
+	<classpathentry kind="src" path="labs/practice15A/ProductManagement/src"/>
+	<classpathentry excluding="labs/" kind="src" path="labs/practice15B-refactored/ProductManagement/src"/>
+	<classpathentry kind="src" path="labs/practice15B-refactored/ProductManagement/src/labs"/>
+	<classpathentry kind="src" path="labs/practice15B-solution/modules/ProductManagement/src/labs.client/classes"/>
+	<classpathentry kind="src" path="labs/practice15B-solution/modules/ProductManagement/src/labs.file/classes"/>
+	<classpathentry kind="src" path="labs/practice15B-solution/modules/ProductManagement/src/labs.pm/classes"/>
+	<classpathentry kind="src" path="labs/practice4/ProductManagement/src"/>
+	<classpathentry kind="src" path="labs/practice5/ProductManagement/src"/>
+	<classpathentry kind="src" path="labs/practice6/ProductManagement/src"/>
+	<classpathentry kind="src" path="labs/practice7/ProductManagement/src"/>
+	<classpathentry kind="src" path="labs/practice8/ProductManagement/src"/>
+	<classpathentry kind="src" path="labs/practice9/ProductManagement/src"/>
+	<classpathentry kind="src" path="labs/practices/modules/ProductManagement/src/labs.client/classes"/>
+	<classpathentry kind="src" path="labs/practices/modules/ProductManagement/src/labs.file/classes"/>
+	<classpathentry kind="src" path="labs/practices/modules/ProductManagement/src/labs.pm/classes"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
